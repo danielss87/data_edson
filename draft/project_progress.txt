@@ -5,8 +5,9 @@
 
 =======NEXT STEP==================================
 
-- change the code in order to retrieve also the video lenght.
-- change the code in order to retrieve data from all 50 videos. 
+-Process again the data, in order to have a easier to read minutes format
+- do a exploratory and ploted initial analysis, to see the first trend of data. 
+- make a initial report with findings, and next steps (possibly involving a decision tree/forest)
 
 
 
@@ -15,3 +16,7 @@
 - Creating a google cloud project in order to retrieve the youtube API
 - Save my current API key (youtube V3) inside the project's structure
 - retrieving the data from all "Professor Edson" youtube videos.
+- change the code in order to retrieve also the video lenght.
+- change the code in order to retrieve data from all 50 videos. 
+- process the data in order for the lenght to be counted in minutes.
+- process the data to have a variable of 'views per month'.
