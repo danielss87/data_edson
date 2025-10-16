@@ -1,0 +1,22 @@
+my_project/
+│
+├── data/                 # Raw and processed data files
+│   ├── raw/              # Original, immutable data
+│   └── processed/        # Cleaned or transformed data
+│
+├── notebooks/            # Jupyter notebooks (exploration, EDA, prototyping)
+│   └── 01_initial_analysis.ipynb
+│
+├── src/                  # Python source code (your modules and scripts)
+│   ├── __init__.py       # Makes 'src' a Python package
+│   ├── data_loader.py
+│   ├── data_cleaner.py
+│   └── utils.py
+│
+├── tests/                # Optional: automated tests for your code
+│   └── test_data_cleaner.py
+│
+├── requirements.txt      # List of dependencies (e.g., pandas, numpy, etc.)
+├── .gitignore            # If you’re using git (ignore data, cache, etc.)
+├── README.md             # Explain what your project does
+└── main.py               # Entry point script

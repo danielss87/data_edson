@@ -1,0 +1,14 @@
+========CURRENT POINT==============================
+
+
+
+
+=======NEXT STEP==================================
+- Save my current API key (youtube V3) inside the project's structure
+- retrieving the data from all "Professor Edson" youtube videos.
+
+
+
+
+=======PAST TASKS=============================
+- Creating a google cloud project in order to retrieve the youtube API
