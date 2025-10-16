@@ -4,11 +4,14 @@
 
 
 =======NEXT STEP==================================
-- Save my current API key (youtube V3) inside the project's structure
-- retrieving the data from all "Professor Edson" youtube videos.
+
+- change the code in order to retrieve also the video lenght.
+- change the code in order to retrieve data from all 50 videos. 
 
 
 
 
 =======PAST TASKS=============================
 - Creating a google cloud project in order to retrieve the youtube API
+- Save my current API key (youtube V3) inside the project's structure
+- retrieving the data from all "Professor Edson" youtube videos.
